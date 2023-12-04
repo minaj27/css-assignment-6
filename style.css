@@ -1,0 +1,53 @@
+.main{
+    background-color: cadetblue;
+    border: 5px solid red;
+    height: 500px;
+    width: 900px;
+    position: relative;
+}
+.orange{
+    background-color: chocolate;
+    height: 200px;
+    width: 400px;
+    position: relative;
+}
+.blue{
+    background-color: blue;
+    height: 80px;
+    width: 150px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.brown{
+    background-color: brown;
+    height: 80px;
+    width: 150px;
+    position: absolute;
+    bottom:  0px;
+    left: 0px;
+}
+.gray{
+    background-color: gray;
+    height: 80px;
+    width: 150px;
+    position: absolute;
+    left: 0px;
+    top: 120px;
+}
+.green{
+    background-color: green;
+    height: 80px;
+    width: 150px;
+    position: absolute;
+    left: 250px;
+    top: 120px;
+}
+.child{
+    background-color: rgb(27, 187, 27);
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    top: 0px;
+    left: 400px;
+}
